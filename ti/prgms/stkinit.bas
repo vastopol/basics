@@ -1,0 +1,17 @@
+ClrHome
+Disp "RPN STACK"
+Pause
+ClrHome
+Disp "CLR VARS"
+Disp "STACK SIZE 7"
+0-->A
+0-->B
+0-->C
+0-->D
+0-->E
+0-->F
+0-->G
+0-->X
+0-->Y
+0-->Z
+prgmSMAIN
