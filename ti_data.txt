@@ -9,4 +9,7 @@ https://en.wikibooks.org/wiki/TI-Basic_84_Programming
 
 
 Assembly Hex Codes
+http://clrhome.org/table/
+http://z80-heaven.wikidot.com/opcode-reference-chart
 http://tibasicdev.wikidot.com/hexcodes
+http://tibasicdev.wikidot.com/forum/t-215371/post-your-assembly-hex-codes-here
