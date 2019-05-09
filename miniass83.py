@@ -1,4 +1,4 @@
-print("C1")#!/usr/bin/python3
+#!/usr/bin/python3
 
 # z80 opcodes in hex
 # terrible mini asm to hex converter

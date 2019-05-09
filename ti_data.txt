@@ -13,3 +13,8 @@ http://clrhome.org/table/
 http://z80-heaven.wikidot.com/opcode-reference-chart
 http://tibasicdev.wikidot.com/hexcodes
 http://tibasicdev.wikidot.com/forum/t-215371/post-your-assembly-hex-codes-here
+
+
+etc...
+
+https://www.perlmonks.org/bare/?node_id=233706
